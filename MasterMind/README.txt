@@ -10,6 +10,11 @@ alors qu'il travaillait comme expert en télécommunications.
 
 
 Lancement du jeux :
+
+#To generate the executable file
+$ make
+
+#To run the code 
 $ ./mastermind nb_tentativeAutoriser
 
 nb_tentativeAutoriser = 4 par exemple pour autoriser 4 tentative par partie aux lancement du jeux
