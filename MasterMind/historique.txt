@@ -1,0 +1,99 @@
+ Wed Feb  6 15:27:26 2019
+ 
+Partie : 0 
+Tentative : 4 
+Combinaison saisie : AZEE 
+1 lettre(s) bien placé et 0 lettre(s) mal placé 
+
+Partie : 0 
+Tentative : 3 
+Combinaison saisie : ECFD 
+0 lettre(s) bien placé et 0 lettre(s) mal placé 
+
+Partie : 0 
+Tentative : 2 
+Combinaison saisie : DFCE 
+4 lettre(s) bien placé et 0 lettre(s) mal placé 
+
+Partie : 1 
+Tentative : 4 
+Combinaison saisie : AZER 
+0 lettre(s) bien placé et 0 lettre(s) mal placé 
+
+Partie : 1 
+Tentative : 3 
+Combinaison saisie : RTYU 
+0 lettre(s) bien placé et 0 lettre(s) mal placé 
+
+Partie : 1 
+Tentative : 2 
+Combinaison saisie : ABCF 
+1 lettre(s) bien placé et 1 lettre(s) mal placé 
+
+Partie : 1 
+Tentative : 1 
+Combinaison saisie : SDFG 
+0 lettre(s) bien placé et 0 lettre(s) mal placé 
+
+ Wed Feb  6 15:30:50 2019
+ 
+Partie : 0 
+Tentative : 4 
+Combinaison saisie : AZER 
+0 lettre(s) bien placé et 0 lettre(s) mal placé 
+
+Partie : 0 
+Tentative : 3 
+Combinaison saisie : DCEA 
+2 lettre(s) bien placé et 2 lettre(s) mal placé 
+
+Partie : 0 
+Tentative : 2 
+Combinaison saisie : DCAE 
+4 lettre(s) bien placé et 0 lettre(s) mal placé 
+
+ Wed Feb  6 23:00:34 2019
+ 
+ Wed Feb  6 23:00:41 2019
+ 
+Partie : 0 
+Tentative : 4 
+Combinaison saisie : ERGD 
+0 lettre(s) bien placé et 0 lettre(s) mal placé 
+
+Partie : 0 
+Tentative : 3 
+Combinaison saisie : BRDF 
+3 lettre(s) bien placé et 0 lettre(s) mal placé 
+
+ Wed Feb  6 23:06:37 2019
+ 
+Partie : 0 
+Tentative : 4 
+Combinaison saisie : DEAF 
+1 lettre(s) bien placé et 0 lettre(s) mal placé 
+
+Partie : 0 
+Tentative : 3 
+Combinaison saisie : ACDE 
+0 lettre(s) bien placé et 0 lettre(s) mal placé 
+
+Partie : 0 
+Tentative : 2 
+Combinaison saisie : CBAD 
+4 lettre(s) bien placé et 0 lettre(s) mal placé 
+
+ Wed Feb  6 23:42:28 2019
+ 
+Partie : 0 
+Tentative : 4 
+Combinaison saisie : ADFB 
+1 lettre(s) bien placé et 2 lettre(s) mal placé 
+
+ Wed Feb  6 23:44:33 2019
+ 
+Partie : 0 
+Tentative : 4 
+Combinaison saisie : BFAC 
+2 lettre(s) bien placé et 0 lettre(s) mal placé 
+
